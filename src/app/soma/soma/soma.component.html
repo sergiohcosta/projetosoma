@@ -1,0 +1,7 @@
+<form>
+    Número 1: <input #kkk type="text" /><br/>
+    Número 2: <input #numero2 type="text" /><br/>
+    <input type="button" value="Somar"
+(click)="somar(kkk.value, numero2.value)" /><br/><br/><br/><br/>
+    Resultado: <input [value]="resultado" type="text" />
+    </form>
