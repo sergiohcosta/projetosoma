@@ -1,5 +1,9 @@
 # Projetosoma
 
+First steps learning Angular
+
+Creates a form to add two numbers, with the purpose of learning and implementing the first concepts of Angular
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
 ## Development server
